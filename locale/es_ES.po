@@ -1,0 +1,39 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "model:ir.action,name:act_treasury_move_line"
+msgid "Move Lines"
+msgstr "Apuntes contables"
+
+msgctxt "model:ir.action.act_window.domain,name:act_treasury_move_line_domain_all"
+msgid "All"
+msgstr "Todo"
+
+msgctxt "model:ir.action.act_window.domain,name:act_treasury_move_line_domain_reconciled"
+msgid "Reconciled"
+msgstr "Conciliado"
+
+msgctxt "model:ir.action.act_window.domain,name:act_treasury_move_line_domain_unreconciled"
+msgid "Unreconciled"
+msgstr "No conciliado"
+
+msgctxt "model:ir.ui.menu,name:menu_move_line"
+msgid "Move Lines"
+msgstr "Apuntes contables"
+
+msgctxt "model:ir.ui.menu,name:menu_treasury"
+msgid "Treasury"
+msgstr "Tesorería"
+
+msgctxt "view:account.move.line:"
+msgid "Account Move Lines"
+msgstr "Apuntes contables"
+
+msgctxt "view:account.move.line:"
+msgid "Credit"
+msgstr "Haber"
+
+msgctxt "view:account.move.line:"
+msgid "Debit"
+msgstr "Debe"
