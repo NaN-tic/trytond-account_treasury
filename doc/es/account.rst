@@ -1,7 +1,7 @@
 #:before:account/account:section:asientos_y_movimientos#
 
-Facturas
-========
+Tresorería
+==========
 
 #:inside:account/account:toctree:invoice#
 
